@@ -19,11 +19,7 @@ This project is an interactive Power BI dashboard that provides a global overvie
 
 ---
 
-## 🖼️ Dashboard Preview
 
-*(Add a screenshot of your dashboard here — you can upload the PNG you shared earlier)*
-
----
 
 ## 🎯 Purpose
 
