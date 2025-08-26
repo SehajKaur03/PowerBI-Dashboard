@@ -49,9 +49,7 @@ This dashboard consolidates multiple perspectives of COVID-19 data into a single
 
 ---
 
-## 📌 Author
 
-Created by **\[Sehaj]** – aspiring Data Analyst passionate about data visualization and storytelling with Power BI.
 
 
 
