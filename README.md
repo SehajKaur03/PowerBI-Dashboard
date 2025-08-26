@@ -7,6 +7,7 @@
 
 This project is an interactive Power BI dashboard that provides a global overview of COVID-19 cases and deaths during 2020. It helps both technical and non-technical users explore the impact of the pandemic using filters, charts, and maps.
 
+![Dashboard Screenshot]("images/Dashboard image.png")
 ---
 
 ## 🔹 Features
